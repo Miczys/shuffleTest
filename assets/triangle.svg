@@ -1,0 +1,13 @@
+<svg height="100" width="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+      <linearGradient id="Gradient" gradientTransform="rotate(90)">
+        <stop class="color1" offset="10%"/>
+        <stop class="color2" offset="100%"/>
+      </linearGradient>
+      <style type="text/css"><![CDATA[
+        .color1 { stop-color: #e2e4f1; }
+        .color2 { stop-color: #ffffff;stop-opacity: 0;}
+      ]]></style>
+  </defs>
+  <polygon points="0,0 100,0 100,100" style="" fill="url(#Gradient)"/>
+</svg>
