@@ -59,7 +59,7 @@
     width: 31rem;
     height: 31rem;
     position: absolute;
-    background: url(/assets/elispe.svg);
+    background: url(../assets/elispe.svg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -132,7 +132,7 @@
     content: "";
     width: 17rem;
     height: 17rem;
-    background: url(/assets/triangle.svg);
+    background: url(../assets/triangle.svg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -188,9 +188,7 @@
         width: 100%;
         justify-content: center;
     }
-    .box-square:nth-child(even){
-        top: 0rem;
-    }
+    
     .squares-holder{
         max-width: 50rem;
         margin-top: 2rem;
